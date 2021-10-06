@@ -1,2 +1,2 @@
-console.log('jf');
+console.log('ok');
 alert('dick')
