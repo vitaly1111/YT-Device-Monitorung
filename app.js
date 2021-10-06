@@ -1,2 +1,2 @@
-console.log('jk');
+console.log('ok');
 alert('dick')
